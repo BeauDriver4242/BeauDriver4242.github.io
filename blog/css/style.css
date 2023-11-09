@@ -74,7 +74,7 @@
 
 p {
     font-family: roboto, Arial, sans-serif;
-    line-height: 1.2rem;
+    line-height: 1.4rem;
 }
 
 h1, h2, h3, h4 {
@@ -87,6 +87,11 @@ h1 {
     transform: rotate(-5deg);
     text-align: center;
     
+}
+
+time {
+    font-family: roboto, Arial, sans-serif;
+    line-height: 1.4rem;
 }
 
 .highlight{
